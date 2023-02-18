@@ -1,0 +1,320 @@
+*{
+    
+    text-decoration:none;
+    text-transform: capitalize;
+    transition: all .2s linear;
+    color:rgb(225, 213, 213)
+    
+}
+
+body{
+    background-color:rgb(225, 213, 213)
+}
+header{
+ 
+    padding:18px 127px 11px 0px;
+    margin: 26px -10px -128px -28px;
+    display: block;
+    font-size: 2rem;
+    color:rgb(225, 213, 213);
+    top:39px; left:-92px; right:-11px; bottom:861px;
+    background: #222;
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+   
+}
+header .logo{
+    text-transform: uppercase;
+    color: #fff;
+    font-size: 2rem;
+    font-weight: bolder;
+    margin: 0;
+    padding-left: 8%;
+}
+header .logo span{
+    text-transform: uppercase;
+    color:var(--main-color);
+   
+}
+header .navbar a{
+    display:inline-block;
+    font-size: 1.6rem;
+    color:var(--main-color);
+    padding: 1px 21px;
+    text-align: right;
+    
+    
+}
+header .navbar a:hover{
+    letter-spacing: .2rem;
+    color:var(--main-color);
+}
+#cam{
+    margin:203px 0 -337px 59px;
+    height:70px;
+    /* width: auto; */
+    padding: 0 0;
+}
+.main{
+    background-color:white;
+    display: block;
+    padding: 3px ;
+    margin: 164px 917px 45px 143px;
+    color: black;
+
+    
+}
+.main img{
+    height: 522px;
+    width:1101px ; 
+    padding: 29px 8px 29px 48px;
+}
+.main .content p{
+    color: black;
+    font-size: 20px;
+    padding:49px 38px 49px 38px; 
+
+}
+.main .content h2{
+    color: black;
+    font-size: 20px;
+    padding:3px 38px 3px 38px; 
+
+}
+
+.main hr{
+    padding: 0px 522px;
+    height:0px; 
+    width:72px;
+}
+
+
+body{
+    background-color:rgb(225, 213, 213)
+}
+header{
+ 
+    padding:18px 127px 11px 0px;
+    margin: 26px -10px -128px -28px;
+    display: block;
+    font-size: 2rem;
+    color:rgb(225, 213, 213);
+    top:39px; left:-92px; right:-11px; bottom:861px;
+    background: #222;
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+   
+}
+header .logo{
+    text-transform: uppercase;
+    color: #fff;
+    font-size: 2rem;
+    font-weight: bolder;
+    margin: 0;
+    padding-left: 8%;
+}
+header .logo span{
+    text-transform: uppercase;
+    color:var(--main-color);
+   
+}
+header .navbar a{
+    display:inline-block;
+    font-size: 1.6rem;
+    color:var(--main-color);
+    padding: 1px 21px;
+    text-align: right;
+    
+    
+}
+header .navbar a:hover{
+    letter-spacing: .2rem;
+    color:var(--main-color);
+}
+#cam{
+    margin:0px 0px -386px 59px;
+    height:70px;
+    /* width: auto; */
+    padding: 0 0;
+}
+.main{
+    background-color:white;
+    display: block;
+    padding: 3px ;
+    margin: 164px 917px 45px 143px;
+    color: black;
+
+    
+}
+.main img{
+    height: 522px;
+    width:1101px ; 
+    padding: 29px 8px 29px 48px;
+}
+.main .content p{
+    color: black;
+    font-size: 20px;
+    padding:22px 38px 49px 38px; 
+
+}
+.main .content h2{
+    color: black;
+    font-size: 20px;
+    padding:3px 38px 3px 38px; 
+
+}
+
+.main hr{
+    padding: 0px 522px;
+    height:0px; 
+    width:72px;
+}
+#q1{
+    margin:-124px 1px -143px -88px;
+    height: 85px;
+    width: auto;
+    padding:0 0 0 0;
+    
+}
+.main2{
+    background-color:black;
+    display: block;
+    padding: 3px ;
+    margin: -1656px 425px 0px 1352px;
+    color:white;
+}
+.main2 img{
+    height: 272px;
+    padding: 16px 28px 16px 21px;
+}
+.main2 .follow a{
+    font-size: 1rem;
+    color:white ;
+    margin: 25px;
+}
+
+.main2 .follow a:hover{
+    letter-spacing: 0.3px;
+    color:var(--main-color);
+}
+
+.main2 p{
+    color: rgb(199, 195, 195);
+    font-size: 21px;
+    padding:10px 20px 1px 20px
+}
+.main2 h3{
+    color: rgb(199, 195, 195);
+    font-size: 31px;
+    padding:6px 20px 0px 20px;
+}
+.main2 hr{
+    padding: 0px 227px;
+    height:0px; 
+    width:0px;
+    color:rgb(199, 195, 195);
+}
+
+.main3{
+    background-color:black;
+    margin:24px 425px 0 1351px;
+    padding:31px 75px 95px 53px;
+}
+.main3 input[type=text] {
+    float: right;
+    padding: 6px;
+    border: 5px solid white;
+    margin-top: 7px;
+    margin-right: -24px;
+    font-size: 30px;
+}
+
+.main4{
+    background-color:black;
+    margin:22px 425px 0 1351px;
+    padding:15px 75px 73px 17px;
+}
+.main4 h3{
+    color: white;
+    font-size:26px;
+}
+.main4 h2{
+    font-size:21px;
+    color:rgb(210, 91, 47)
+}
+.main4 hr{
+    color: rgb(199, 195, 195);
+}
+
+.main2{
+    background-color:black;
+    display: block;
+    padding: 3px ;
+    margin: -1576px 425px 0px 1352px;
+    color:white;
+}
+.main2 img{
+    height: 272px;
+    padding: 16px 28px 16px 21px;
+}
+.main2 .follow a{
+    font-size: 1rem;
+    color:white ;
+    margin: 25px;
+}
+
+.main2 .follow a:hover{
+    letter-spacing: 0.3px;
+    color:var(--main-color);
+}
+
+.main2 p{
+    color: rgb(199, 195, 195);
+    font-size: 21px;
+    padding:10px 20px 1px 20px
+}
+.main2 h3{
+    color: rgb(199, 195, 195);
+    font-size: 31px;
+    padding:6px 20px 0px 20px;
+}
+.main2 hr{
+    padding: 0px 227px;
+    height:0px; 
+    width:0px;
+    color:rgb(199, 195, 195);
+}
+
+.main3{
+    background-color:black;
+    margin:24px 425px 0 1351px;
+    padding:31px 75px 95px 53px;
+}
+.main3 input[type=text] {
+    float: right;
+    padding: 6px;
+    border: 5px solid white;
+    margin-top: 7px;
+    margin-right: -24px;
+    font-size: 30px;
+}
+
+.main4{
+    background-color:black;
+    margin:22px 425px 0 1351px;
+    padding:15px 75px 73px 17px;
+}
+.main4 h3{
+    color: white;
+    font-size:26px;
+}
+.main4 h2{
+    font-size:21px;
+    color:rgb(210, 91, 47)
+}
+.main4 hr{
+    color: rgb(199, 195, 195);
+}
+
